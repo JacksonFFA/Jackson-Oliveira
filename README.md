@@ -1,6 +1,6 @@
 ##Olá Eu sou Jackson Oliveira
 
-- 🔭 Hoje trabalho com font-end
+- 🔭 Hoje trabalho como Analista Desenvolvedor 
 - 🌱 Estudante de Ciência da Computação
 
 <div align="center">
