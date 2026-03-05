@@ -68,9 +68,9 @@ Streaming data pipeline for real-time analytics and monitoring.
 
 <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="center" alt="SQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-<img align="center" alt="Spark" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+<img align="center" alt="Apache" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 
 <img align="center" alt="Azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 
@@ -78,8 +78,6 @@ Streaming data pipeline for real-time analytics and monitoring.
 
 <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-<img align="center" alt="PowerBI" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
-
-<img align="center" alt="Airflow" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
+<img align="center" alt="PowerBI" height="35" width="45" src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg">
 
 </div>
