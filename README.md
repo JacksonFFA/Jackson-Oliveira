@@ -64,18 +64,25 @@ Streaming data pipeline for real-time analytics and monitoring.
 
 # 🧰 Technologies
 
+## 🧰 Technologies
+
 <div style="display: inline_block"><br>
 
-<img align="center" alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="center" alt="sql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="SQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-<img align="center" alt="spark" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+<img align="center" alt="Spark" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 
-<img align="center" alt="azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+<img align="center" alt="Azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 
-<img align="center" alt="docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+<img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+<img align="center" alt="PowerBI" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+
+<img align="center" alt="Airflow" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
 
 </div>
-
 ---
