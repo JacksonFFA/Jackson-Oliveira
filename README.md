@@ -1,8 +1,18 @@
-##Olá Eu sou Jackson Oliveira
+# Jackson Oliveira
 
-- 🔭 Hoje trabalho como Analista Desenvolvedor 
-- 🌱 Estudante de Ciência da Computação
+Data Engineer | AI Agents Developer
 
+Experienced in building data pipelines, APIs integrations, and intelligent automation systems using Python, SQL, and cloud technologies.
+
+## Skills
+Python • SQL • Data Pipelines • Web Scraping • ETL/ELT • APIs • Azure • PySpark • Data Lakes • AI Agents • Automation
+
+## Projects
+
+- Data Pipeline Project
+- AI Agents Automation
+- Web Scraping System
+- Real-Time Data Processing
 <div align="center">
   <a href="https://github.com/JacksonFFA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonFFA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
